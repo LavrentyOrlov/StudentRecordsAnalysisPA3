@@ -23,4 +23,3 @@ This program uses functions to read numerical records for five students from a .
 2. Open the project in Visual Studio.
 3. Build the solution.
 4. Run the program.
-
