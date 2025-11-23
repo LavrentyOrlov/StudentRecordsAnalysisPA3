@@ -2,7 +2,8 @@
 
 ## Project Info
 Date: September 2025
-Created by: Lavrenty "Larry" Orlov
+- Created by:
+- Lavrenty "Larry" Orlov
 
 ## Overview
 This program uses functions to read numerical records for five students from a .txt file, perform calculations based on that input data, and return the results of those calculations to a second .txt file.
@@ -23,3 +24,4 @@ This program uses functions to read numerical records for five students from a .
 2. Open the project in Visual Studio.
 3. Build the solution.
 4. Run the program.
+
