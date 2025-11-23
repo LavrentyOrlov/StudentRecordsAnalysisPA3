@@ -18,12 +18,12 @@ This program uses functions to read numerical records for five students from a .
 - IDE: Visual Studio Community
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/lavrentyorlov/StudentRecordsAnalysisPA3.git```
+1. Clone the repository on your device's command-line interface:
+   ```git clone https://github.com/lavrentyorlov/StudentRecordsAnalysisPA3.git```
 3. Open the project in Visual Studio.
 4. Build the solution.
 5. Run the program.
+
 
 
 
