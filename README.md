@@ -20,11 +20,11 @@ This program uses functions to read numerical records for five students from a .
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lavrentyorlov/StudentRecordsAnalysisPA3.git
-   ```
+   git clone https://github.com/lavrentyorlov/StudentRecordsAnalysisPA3.git```
 3. Open the project in Visual Studio.
 4. Build the solution.
 5. Run the program.
+
 
 
 
