@@ -19,12 +19,7 @@ This program uses functions to read numerical records for five students from a .
 
 ## How to Run
 1. Clone the repository on your device's command-line interface:
-   ```git clone https://github.com/lavrentyorlov/StudentRecordsAnalysisPA3.git```
-3. Open the project in Visual Studio.
-4. Build the solution.
-5. Run the program.
-
-
-
-
-
+```git clone https://github.com/lavrentyorlov/StudentRecordsAnalysisPA3.git```
+2. Open the project in Visual Studio.
+3. Build the solution.
+4. Run the program.
